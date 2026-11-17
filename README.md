@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Stephania Ferreira, tenho 27 anos e sou natural de São Paulo. Concluí o Bacharelado em Ciência e Tecnologia Na Universidade Federal do ABC (UFABC). Sou uma pessoa que gosta de entender o funcionamento das coisas, por isso busco ir além do uso das ferramentas, procurando compreender os conceitos por trás das soluções, principalmente na área de desenvolvimento de software. Tenho afinidade com matemática, abstração e raciocínio lógico, o que influencia bastante a forma como abordo problemas de programação.
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/stephania-ferreira-09a669211/">
